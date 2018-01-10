@@ -1,4 +1,6 @@
-a <- 1
+
+
+
 ## ROYECTO INVESTIGACION DE OPERACIONES
 
 ##ENTIDAD A ESTUDIAR : DataCorp
@@ -84,5 +86,5 @@ summary(solopt)
 ##
 #ALUMNA: RUTH DE LA CRU BAUTISTA  27125752
 #ASIGNATURA: investigacion de Operaciones I
-
+#DOCENTE: 
 ####
