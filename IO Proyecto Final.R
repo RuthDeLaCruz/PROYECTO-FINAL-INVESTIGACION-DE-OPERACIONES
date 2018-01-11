@@ -1,11 +1,10 @@
 
 
-
 ## ROYECTO INVESTIGACION DE OPERACIONES
 
 ##ENTIDAD A ESTUDIAR : DataCorp
 
-#En la cocina diponen de 85 piezas de micropocesadores Intel, 
+#En la empresa DataCorp diponen de 85 piezas de micropocesadores Intel, 
 #22 discos duros de marca Dell para elaborar los postres 
 # y dispone de 58.5 horas de trabajo.
 #que utilizan para reparar computadoras y dispositivos electronicos y 
@@ -25,7 +24,7 @@
 #con el que mas ingresos percibe.
 
 #¿cuantas microprocesadores debe vender para  maximize las ganancias, ya que éstos 
-#son los mas caros y que se pueda decicar mas a la rema de las ventas?
+#son los mas caros y que se pueda decicar mas a la rama de las ventas?
 
 
 ##
@@ -86,5 +85,5 @@ summary(solopt)
 ##
 #ALUMNA: RUTH DE LA CRU BAUTISTA  27125752
 #ASIGNATURA: investigacion de Operaciones I
-#DOCENTE: 
+
 ####
